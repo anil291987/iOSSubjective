@@ -1,2 +1,2 @@
 # iOSSubjective
-Innovify iOS subjective
+iOS subjective
